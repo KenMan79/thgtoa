@@ -8,6 +8,7 @@ All donations and expenses are being logged here below for transparency.
 	- Tor-Exit-01 node hosting (current expiration date is September 30, 2022).
 	- Tor-Exit-02 node hosting (current expiration date is December 31, 2021). **Funding secured for extension.**
 	- Tor-Exit-03 node hosting (current expiration date is August 31, 2022).
+	- Tor-Exit-04 node hosting (current expiration date is September 30, 2022).
 - Move VPS for the Tor .onion hosting (current expiration date is April 1st, 2022) to a cheaper hosting provider and extend for 2 more years.
 - (Medium Priority) Set-up more Tor Exit nodes if funding allows it.
 - (Low Priority) Set-up a Synapse Matrix Federated Server on a more powerful VPS (at least 2GB of RAM with enough storage to handle large rooms).
