@@ -23,7 +23,8 @@ Latest PDF versions at:
 - Light Theme over Tor: <http://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion/guide.pdf> 
 - Dark Theme: <https://anonymousplanet.org/guide-dark.pdf> <sup>[[Mirror]][3]</sup> <sup>[[Archive.org]][4]</sup> 
 - Dark Theme over Tor: <http://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion/guide-dark.pdf>
-- All latest PDFs are also available on CryptPad.fr at <https://cryptpad.fr/drive/#/2/drive/view/Ughm9CjQJCwB8BIppdtvj5zy4PyE-8Gxn11x9zaqJLI/>
+- Also available on CryptPad.fr at: <https://cryptpad.fr/drive/#/2/drive/view/Ughm9CjQJCwB8BIppdtvj5zy4PyE-8Gxn11x9zaqJLI/>
+- Also available on Anonarchive.org using the following public key: ```BPMWFUFLlN1obX3MA7RC?H2Ghz6A9hlNkanvT```
 
 Latest OpenDocument Text version at: <https://anonymousplanet.org/guide.odt> <sup>[[Mirror]][5]</sup> <sup>[[Archive.org]][9]</sup> <sup>[[Tor Mirror]][10]</sup> 
 
